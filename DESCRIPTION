@@ -1,0 +1,11 @@
+Package: ReconomixR6
+Type: Package
+Title: Reconomix Package
+Version: 0.1.0
+Author: Alejandro Baranek <abaranek@gmail.com>, Leonardo Belen <leobelen@gmail.com>
+Maintainer: Alejandro Baranek <abaranek@gmail.com>, Leonardo Belen <leobelen@gmail.com>
+Description: Reconomix Package
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
